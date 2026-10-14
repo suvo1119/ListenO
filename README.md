@@ -72,27 +72,7 @@ You can download and install ListenO directly on your Android phone without any 
 
 No paid subscriptions, no intrusive ads, and no account required. Everything runs locally on your device with clean, direct communication to YouTube Music's InnerTube API.
 
----
-
-## Screenshots
-
-<p align="center">
-  <img src="docs/screenshots/home.jpg" width="220" alt="Home Screen" />
-  &nbsp;&nbsp;
-  <img src="docs/screenshots/now-playing.jpg" width="220" alt="Now Playing Screen" />
-  &nbsp;&nbsp;
-  <img src="docs/screenshots/lyrics.jpg" width="220" alt="Lyrics Screen" />
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/search.jpg" width="220" alt="Search Screen" />
-  &nbsp;&nbsp;
-  <img src="docs/screenshots/import-playlists.jpg" width="220" alt="Import Playlists" />
-  &nbsp;&nbsp;
-  <img src="docs/screenshots/update-check.jpg" width="220" alt="In-App Updates" />
-</p>
-
----
+-----------------------------
 
 ## Core Features
 
